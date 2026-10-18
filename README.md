@@ -1,8 +1,8 @@
 # Vivek Raj Anand
 
-Applied economist and builder. Strategy consultant for four years at Strategy& (PwC), M&A at KPMG before that, econometrics at Kellogg (Doctoral Fellow) and Chicago Harris. Since July 2026 I build and run consumer AI products.
+Applied economist and builder. 
 
-I write at [Money, Math, and Muscle](https://vranand1.github.io/): applied economics on AI, payments and finance, with every chart built in code and every number traceable to a source.
+I write at [Money, Math, and Muscle](https://vranand1.github.io/)
 
 ## Research code (public)
 
