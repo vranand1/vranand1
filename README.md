@@ -12,6 +12,6 @@ I write at [Money, Math, and Muscle](https://vranand1.github.io/)
 
 ## Tools
 
-Python, SQL, dbt, Databricks, LangChain and LangGraph, OpenAI and Gemini APIs, Claude Code, Google Cloud; Excel for the models that have to be reviewed by people who do not read code.
+Python, SQL, dbt, Databricks, LangChain and LangGraph, OpenAI and Gemini APIs, Claude Code, Google Cloud; Causal Inference  - Experiments and Quasi Experiments; Excel for the models that have to be reviewed by people who do not read code.
 
 vivekrajanand1@gmail.com · [LinkedIn](https://www.linkedin.com/in/vivekrajanand1/)
